@@ -1,24 +1,38 @@
-### Steven Cao's GitHub
+## steven.cao's GitHub
 
-Hi there 
+Hi there 👋
 
-#### Steven cao's GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=steven1213&show_icons=true&theme=tokyonight)
-
+<div style="width:1120px">
+    <div style="float: left;width: 550px;text-align:left">
+        <div>
+          <h4>GitHub Stats</h4>
+        </div>
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api?username=steven1213&show_icons=true&theme=tokyonight">
+        </div>
+    </div>
+    <div style="float:right;width: 550px;text-align:left">
+        <div>
+          <h4>GitHub Streak</h4>
+        </div>
+        <div>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=steven1213">
+        </div>
+    </div>
+</div>
 
 #### Top Langs
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=steven1213&layout=compact&theme=tokyonight)
+<img style="width:1120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven1213&layout=compact&theme=tokyonight"/>
 
 
 
-#### GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=steven1213)](https://git.io/streak-stats)
+#### GitHub Activity Graph
+[![steven.cao's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=steven1213&theme=xcode)](https://github.com/steven1213/github-readme-activity-graph)
 
 
-<div style="align:center;text-align: center;float: none">
-  <h4>Steven cao's GitHub Homepage Traffic Statistics</h4>
-  <img src="https://profile-counter.glitch.me/all-smile/count.svg"></img>
-</div>
+#### GitHub Homepage Traffic Statistics
+ <img src="https://profile-counter.glitch.me/all-smile/count.svg"></img>
+
 
 <!--  skill badge 技能徽章
 💪 正在学习
